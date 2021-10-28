@@ -4,13 +4,13 @@
  <a href="https://media1.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif?cid=ecf05e47iev2ed7f147xb6ye6vdtjre7zjp41f00yhxnzdtu&rid=giphy.gif&ct=g"><img src="https://media1.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif?cid=ecf05e47iev2ed7f147xb6ye6vdtjre7zjp41f00yhxnzdtu&rid=giphy.gif&ct=g"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior at West Visayas State University taking up Bachelor of Science in Information Technology major in Software Technologies. I like to Code, Play video games, Innovate and Experiment. I am a friendly and social person who loves discovering new things. I love working with other developers, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Junior at West Visayas State University taking up Bachelor of Science in Information Technology major in Software Technologies. I'm currently learning full-stack web development. I like to Code, Play video games, Innovate and Experiment. I am a friendly and social person who loves discovering new things. I love working with other developers, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashcbrd&label=Profile%20views&color=0e75b6&style=plastic" alt="ashcbrd" /> </p>
 
 <hr/>
 
-## ⚙️ Tools and Languages (Currently Learning)
+## ⚙️ Tools and Languages
 
 <p align="center">
  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html5-3-502526.png" alt="HTML" width="60px"/>
