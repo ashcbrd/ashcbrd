@@ -1,6 +1,6 @@
 <h1 align="center"> Hi , I'm Asther Louie Cabardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Software+Technologies;Front-End+Web+Developer;Nighthawk+•+Nyctophile+•+Nightjar&center=true&width=500&height=50"></a><br>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Software+Technologies;Front-End+Web+Development;Nighthawk+•+Nyctophile+•+Nightjar&center=true&width=500&height=50"></a><br>
  <a href="https://media1.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif?cid=ecf05e47iev2ed7f147xb6ye6vdtjre7zjp41f00yhxnzdtu&rid=giphy.gif&ct=g"><img src="https://media1.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif?cid=ecf05e47iev2ed7f147xb6ye6vdtjre7zjp41f00yhxnzdtu&rid=giphy.gif&ct=g"></a>
 </p>
 <hr/>
