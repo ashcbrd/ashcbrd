@@ -53,7 +53,7 @@
 ## 🛠 Projects
 <p align="center">
 	<p align="center"><a href="https://github.com/ashcbrd/DevStack">💻 DevStack</a> (WIP) - A social networking site for developers</p>
-	<p align="center"><a href="https://github.com/Blankeos/akwe-landing">💻 Cybergence</a> - Even portal/Landing website</p>
+	<p align="center"><a href="https://github.com/Blankeos/akwe-landing">💻 Cybergence</a> - Event portal/Landing website</p>
 </p>
 
 <br/>
