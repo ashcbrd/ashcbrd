@@ -54,6 +54,9 @@
 <p align="center">
 	<p align="center"><a href="https://github.com/ashcbrd/DevStack">💻 DevStack</a> (WIP) - A social networking site for developers</p>
 	<p align="center"><a href="https://github.com/Blankeos/akwe-landing">💻 Cybergence</a> - Event portal/Landing website</p>
+	<p align="center"><a href="https://github.com/ashcbrd/threejs-game-demo">💻 ThreeJS Game Demo</a> - 3D game demo made using threeJS as a practice project</p>
+	
+	
 </p>
 
 <br/>
