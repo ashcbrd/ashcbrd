@@ -65,9 +65,9 @@
 
 <p align="center">
 	<a href="mailto:cabardoash@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/asther-louie-cabardo-46b0b1213"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/ashcbrd/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/ashterlouie.cabardo"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://twitter.com/ashcbrd"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"></a>
+	<a href="https://twitter.com/ashcbrd"><img src="[https://img.icons8.com/bubbles/50/000000/twitter.png](https://www.flaticon.com/free-icon/twitter_3670151?term=twitter&page=1&position=2&origin=search&related_id=3670151)" alt="Twitter"></a>
 	<a href="https://instagram.com/ashcbrd"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"></a>
 </p>
 	
