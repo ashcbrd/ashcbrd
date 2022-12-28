@@ -43,7 +43,7 @@
 ## ⚡ Recent GitHub Activity
 
 <p align="center">
-	<a href="https://github.com/ashcbrd"><img alt="ashcbrd's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashcbrd&custom_title=Asther%20Louie's%20Contribution%20Graph&theme=react-dark" width="800px"/></a>
+	<a href="https://github.com/ashcbrd"><img alt="ashcbrd's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ashcbrd&custom_title=Asther%20Louie%27s%20Contribution%20Graph&theme=react-dark" width="800px"/></a>
 
 </p>
 
