@@ -47,11 +47,11 @@
 ## 🛠 Featured Projects
 
 <p align="center">
-  <p align="center"><a href="https://github.com/ashcbrd/threadit">💻 Threadit</a> - a social media platform where users share posts, links, images, and videos in different communities.</p> 
-  <p align="center"><a href="https://github.com/Blankeos/akwe-landing">💻 Kaugmaon</a> - RealITy XII: Kaugmaon Event Landing Page</p>
+  <p align="center"><a href="https://github.com/ashcbrd/threadit">🧵 Threadit</a> - a social media platform where users share posts, links, images, and videos in different communities.</p> 
+  <p align="center"><a href="https://github.com/Blankeos/akwe-landing">✨ Kaugmaon</a> - RealITy XII: Kaugmaon Event Landing Page</p>
   <p align="center"><a href="https://github.com/Blankeos/kaugmaon">💻 Cybergence</a> - Event portal/Landing website</p>
-  <p align="center"><a href="https://github.com/ashcbrd/threejs-game-demo">💻 ThreeJS Game Demo</a> - 3D game demo made using Three.js as a practice project</p>
-   <p align="center"><a href="https://github.com/ashcbrd/DevStack">💻 DevStack</a> (WIP) - A social networking site for developers</p>
+  <p align="center"><a href="https://github.com/ashcbrd/threejs-game-demo">🧍🏻‍♂️ ThreeJS Game Demo</a> - 3D game demo made using Three.js as a practice project</p>
+   <p align="center"><a href="https://github.com/ashcbrd/DevStack">👨‍💻 DevStack</a> (WIP) - A social networking site for developers</p>
 </p>
 
 <br/>
