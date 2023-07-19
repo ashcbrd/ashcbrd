@@ -24,6 +24,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="JavaScript" width="60px"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="Python" width="60px"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="60px"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/teenyicons-outline-vol-2/15/nextjs-1024.png" alt="React" width="60px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="60px"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png" alt="Node.js" width="60px"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3521676-2945120.png" alt="MongoDB" width="60px"/>
@@ -41,20 +42,16 @@
   <br/>
 </p>
 
-## ⚡ Recent GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/ashcbrd"><img alt="ashcbrd's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ashcbrd&custom_title=Asther%20Louie's%20Contribution%20Graph&theme=react-dark" width="800px"/></a>
-</p>
-
 <br/>
 
-## 🛠 Projects
+## 🛠 Featured Projects
 
 <p align="center">
-  <p align="center"><a href="https://github.com/ashcbrd/DevStack">💻 DevStack</a> (WIP) - A social networking site for developers</p>
-  <p align="center"><a href="https://github.com/Blankeos/akwe-landing">💻 Cybergence</a> - Event portal/Landing website</p>
+  <p align="center"><a href="https://github.com/ashcbrd/threadit">💻 Threadit</a> - a social media platform where users share posts, links, images, and videos in different communities.</p> 
+  <p align="center"><a href="https://github.com/Blankeos/akwe-landing">💻 Kaugmaon</a> - RealITy XII: Kaugmaon Event Landing Page</p>
+  <p align="center"><a href="https://github.com/Blankeos/kaugmaon">💻 Cybergence</a> - Event portal/Landing website</p>
   <p align="center"><a href="https://github.com/ashcbrd/threejs-game-demo">💻 ThreeJS Game Demo</a> - 3D game demo made using Three.js as a practice project</p>
+   <p align="center"><a href="https://github.com/ashcbrd/DevStack">💻 DevStack</a> (WIP) - A social networking site for developers</p>
 </p>
 
 <br/>
@@ -64,7 +61,4 @@
 <p align="center">
   <a href="mailto:cabardoash@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/ashcbrd/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/ashterlouie.cabardo"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-  <a href="https://twitter.com/ashcbrd"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"></a>
-  <a href="https://instagram.com/ashcbrd"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"></a>
 </p>
