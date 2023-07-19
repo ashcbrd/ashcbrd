@@ -5,7 +5,7 @@
 
 <hr/>
 
-<h4 align="center">I am an accomplished web developer with a strong focus on creating visually stunning and user-friendly digital experiences and solving complex problems. I specialize in utilizing HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express.js to build exceptional web applications.</h4>
+<h4 align="center">I am an accomplished web developer with a strong focus on creating visually stunning and user-friendly digital experiences and solving complex problems. I specialize in utilizing HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js to build exceptional web applications.</h4>
 
 <br>
 
