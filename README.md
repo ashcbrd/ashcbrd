@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Asther Louie Cabardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Software+Engineer;UI/UX+Designer;Information+Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;UI/UX+Designer;Information+Technology&center=true&width=500&height=50"></a>
 </p>
 
 <hr/>
@@ -47,11 +47,11 @@
 ## 🛠 Featured Projects
 
 <p align="center">
+<p align="center"><a href="https://github.com/ashcbrd/filinvestland">🏘️ Futura by Filinvest</a> - A website that is modern and user-friendly, showcasing Filinvest's rich history, diverse portfolio, and strategic investments in high-growth industries.</p>
+  <p align="center"><a href="https://github.com/ashcbrd/bionic-reading">👁️ Bioreader</a> - A web application designed to strategically highlight phrases and guide your eye movements to enhance reading speed and comprehension.</p>
   <p align="center"><a href="https://github.com/ashcbrd/threadit">🧵 Threadit</a> - A fullstack social media platform where users share posts, links, images, and videos in different communities.</p> 
-  <p align="center"><a href="https://github.com/Blankeos/akwe-landing">✨ Kaugmaon</a> - RealITy XII: Kaugmaon Event Landing Page</p>
-  <p align="center"><a href="https://github.com/Blankeos/kaugmaon">💻 Cybergence</a> - Event portal/Landing website</p>
-  <p align="center"><a href="https://github.com/ashcbrd/threejs-game-demo">🧍🏻‍♂️ ThreeJS Game Demo</a> - 3D game demo made using Three.js as a practice project</p>
-   <p align="center"><a href="https://github.com/ashcbrd/DevStack">👨‍💻 DevStack</a> (WIP) - A social networking site for developers</p>
+  <p align="center"><a href="https://github.com/Blankeos/akwe-landing">✨ Kaugmaon</a> - RealITy XII: Kaugmaon Event Landing Page.</p>
+  <p align="center"><a href="https://github.com/Blankeos/kaugmaon">💻 Cybergence</a> - Event portal/Landing website.</p>
 </p>
 
 <br/>
