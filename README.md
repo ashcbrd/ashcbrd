@@ -1,7 +1,7 @@
 # Asther Louie Cabardo
 
 **Full-Stack Developer | Bubble.io Developer | IT Professional**  
-📍 Philippines | 📧 cabardoash@gmail.com | 🔗 [Portfolio](https://www.ashcbrd.dev) | 💻 [GitHub](https://github.com/ashcbrd) | 🌐 [LinkedIn](https://www.linkedin.com/in/ashcbrd/)
+📍 Philippines | 📧 astherlouie.cabardo@gmail.com | 🔗 [Portfolio](https://www.ashcbrd.dev) | 💻 [GitHub](https://github.com/ashcbrd) | 🌐 [LinkedIn](https://www.linkedin.com/in/ashcbrd/)
 
 ---
 
